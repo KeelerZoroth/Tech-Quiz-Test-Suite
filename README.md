@@ -27,7 +27,7 @@
 ## Tests
   run ```npm run cypress``` to access the one component test and one end to end test
 
-  example video: https://drive.google.com/file/d/1t46wPKpQQFAwk9O5oV-U3Fl7OPi-UZsi/view
+  example video: https://drive.google.com/file/d/1qi5f2xkWiUatu0FX8TytVlPLT22t8hzY/view?usp=sharing
 ## Questions
   For any questions, contact here:  
   Isaiah Hansen: isaiah1hansen@gmail.com  
